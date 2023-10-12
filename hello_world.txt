@@ -1,0 +1,4 @@
+Hello everyone
+this is Ahmed Elhadi 
+I am a professional Java developer and instructor trying now to pick up a new specilization
+which is web development. And I am doing this with the Odin project. 
